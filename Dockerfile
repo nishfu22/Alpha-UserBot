@@ -4,7 +4,7 @@ FROM biansepang/weebproject:buster
 # Dockerfile
 # Alpha
 # Dockerfile
-RUN git clone -b Alpha https://github.com/AftahBagas/Alpha-Userbot /root/userbot
+RUN git clone -b Alpha https://github.com/nishfu22/UserXtiger /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
