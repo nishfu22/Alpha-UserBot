@@ -1,7 +1,7 @@
 {
-  "name": "Alpha Userbot",
-  "description": "[Alpha] Alpha Userbot 😈",
-  "logo": "https://telegra.ph/file/47d78f16b499eb3bbd8a4.jpg",
+  "name": "USER X TIGER",
+  "description": "[TIGER] USERXTIGER 🐯",
+  "logo": "https://telegra.ph/file/fe5239964c7acc0d9ef69.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Aftahbagas/Alpha-Userbot",
-  "telegram": "https://t.me/Kanjengingsun",
-  "success_url": "https://t.me/Kanjengingsun",
+  "repository": "https://github.com/nishfu22/UserXtiger",
+  "telegram": "https://t.me/pachemild",
+  "success_url": "https://t.me/kutipankitaa",
   "stack": "container",
   "env": {
     "API_KEY": {
